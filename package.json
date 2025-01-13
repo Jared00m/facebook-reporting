@@ -1,0 +1,20 @@
+{
+  "name": "facebook-reporting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "facebook-nodejs-business-sdk": "^20.0.2"
+  },
+  "devDependencies": {
+    "@types/facebook-nodejs-business-sdk": "^20.0.2"
+  }
+}
